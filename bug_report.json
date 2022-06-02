@@ -1,0 +1,12 @@
+{
+  "id":"1",
+  "summary":"uncorect form ",
+  "description":{"steps":["1. open site",
+                 "2. click on the data entry form"],
+                 "expected result":"sucsess data entry",
+                 "actual result":"fatal error"
+                },
+  "priority":"high",
+  "severity":"critical",
+  "attachments":"site, windows 10, Yandex browser"
+}
