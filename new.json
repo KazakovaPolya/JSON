@@ -1,6 +1,6 @@
 { 
 	"FIO": "Kazakova Polina Nikolaevna",
-	"age": "21",
-	"count_pets": "3",
-	"salary": "60000"
+	"age": 21,
+	"count_pets": 3,
+	"salary": 60000
 }
